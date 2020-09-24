@@ -1,4 +1,5 @@
 /* mobile first design */
+/* with a focus on container elements */
 /* default css is for mobile */
 /* media queries for larger view changes */
 
@@ -113,10 +114,6 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-  }
-
-  .big-boxes-container {
-    flex-direction: row;
   }
 
   .big-boxes-container div {
